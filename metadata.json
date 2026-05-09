@@ -1,0 +1,12 @@
+{
+  "name": "CrimsonSky: Weather & Alerts",
+  "description": "A high-performance weather dashboard with real-time tracking, severe weather alerts, and atmospheric visualization in a striking crimson and dark theme.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Weather API Integration",
+    "Real-time Radar Visualization",
+    "Smart Alert System"
+  ]
+}
